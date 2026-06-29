@@ -41,96 +41,90 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
 <br>
 
 <table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="assets/dashboard.png" alt="Dashboard" width="100%">
-  <br><br>
-  <kbd>📊 Dashboard</kbd>
-  <br>
-  <sub>Dashboard — ASPS Dial + project registry + CISA KEV status</sub>
-</td>
+  <!-- FILA 1: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/dashboard.png" alt="Dashboard" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/projects.png" alt="Projects Registry" width="100%"></td>
+  </tr>
+  <!-- FILA 1: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>📊 Dashboard</kbd><br>
+      <sub>ASPS Dial • Project registry • CISA KEV status</sub>
+    </td>
+    <td align="center">
+      <kbd>📁 Projects</kbd><br>
+      <sub>Engagement list with type and status badges</sub>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  <img src="assets/projects.png" alt="Projects Registry" width="100%">
-  <br><br>
-  <kbd>📁 Projects</kbd>
-  <br>
-  <sub>Projects — engagement list with type and status badges</sub>
-</td>
-</tr>
+  <!-- FILA 2: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/import-scan.png" alt="Import Scan" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/reports.png" alt="Report Engine" width="100%"></td>
+  </tr>
+  <!-- FILA 2: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>📥 Import Scan</kbd><br>
+      <sub>Drag-and-drop ingestion with auto-detect parser</sub>
+    </td>
+    <td align="center">
+      <kbd>📄 Report Engine v2.1</kbd><br>
+      <sub>Five report types • Five export formats</sub>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%" align="center">
-  <img src="assets/import-scan.png" alt="Import Scan" width="100%">
-  <br><br>
-  <kbd>📥 Import Scan</kbd>
-  <br>
-  <sub>Import Scan — drag-and-drop ingestion with auto-detect parser</sub>
-</td>
+  <!-- FILA 3: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/kev-catalog.png" alt="CISA KEV Catalog" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/remediation.png" alt="Remediation Tracker" width="100%"></td>
+  </tr>
+  <!-- FILA 3: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>🛡️ CISA KEV Catalog</kbd><br>
+      <sub>1,629 tracked KEVs with offline sync</sub>
+    </td>
+    <td align="center">
+      <kbd>📈 Remediation Tracker</kbd><br>
+      <sub>Per-project progress with status breakdown</sub>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  <img src="assets/reports.png" alt="Report Engine" width="100%">
-  <br><br>
-  <kbd>📄 Report Engine v2.1</kbd>
-  <br>
-  <sub>Report Engine v2.1 — five report types, five export formats</sub>
-</td>
-</tr>
+  <!-- FILA 4: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/create-project.png" alt="Create Project" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/settings-system.png" alt="System Configuration" width="100%"></td>
+  </tr>
+  <!-- FILA 4: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>✨ Create Project</kbd><br>
+      <sub>Engagement setup with type, scope, client and dates</sub>
+    </td>
+    <td align="center">
+      <kbd>⚙️ System Configuration</kbd><br>
+      <sub>AES-256-GCM vault • PBKDF2 600k iterations • KEV sync status</sub>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%" align="center">
-  <img src="assets/kev-catalog.png" alt="CISA KEV Catalog" width="100%">
-  <br><br>
-  <kbd>🛡️ CISA KEV Catalog</kbd>
-  <br>
-  <sub>CISA KEV Catalog — 1,629 tracked KEVs with offline sync</sub>
-</td>
-
-<td width="50%" align="center">
-  <img src="assets/remediation.png" alt="Remediation Tracker" width="100%">
-  <br><br>
-  <kbd>📈 Remediation Tracker</kbd>
-  <br>
-  <sub>Remediation Tracker — per-project progress with status breakdown</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="assets/create-project.png" alt="Create Project" width="100%">
-  <br><br>
-  <kbd>✨ Create Project</kbd>
-  <br>
-  <sub>Create Project — engagement setup with type, scope, client and dates</sub>
-</td>
-
-<td width="50%" align="center">
-  <img src="assets/settings-system.png" alt="System Configuration" width="100%">
-  <br><br>
-  <kbd>⚙️ System Configuration</kbd>
-  <br>
-  <sub>System Configuration — AES-256-GCM vault · PBKDF2 600k iterations · KEV sync status</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="assets/settings-ai.png" alt="AI & Integrations" width="100%">
-  <br><br>
-  <kbd>🤖 AI & Integrations</kbd>
-  <br>
-  <sub>AI & Integrations — Ollama local inference · Nmap · Nessus · Lethe-K connectors</sub>
-</td>
-
-<td width="50%" align="center">
-  <img src="assets/settings-security.png" alt="Security Settings" width="100%">
-  <br><br>
-  <kbd>🔒 Security Settings</kbd>
-  <br>
-  <sub>Security — master password management with full key re-derivation</sub>
-</td>
-</tr>
-
+  <!-- FILA 5: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/settings-ai.png" alt="AI & Integrations" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/settings-security.png" alt="Security Settings" width="100%"></td>
+  </tr>
+  <!-- FILA 5: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>🤖 AI & Integrations</kbd><br>
+      <sub>Ollama local inference • Nmap • Nessus • Lethe-K connectors</sub>
+    </td>
+    <td align="center">
+      <kbd>🔒 Security Settings</kbd><br>
+      <sub>Master password management with full key re-derivation</sub>
+    </td>
+  </tr>
 </table>
 
 </details>
