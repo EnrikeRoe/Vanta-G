@@ -129,51 +129,6 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
 
 </details>
 
-## Screenshots
-
-<table>
-  <tr>
-    <td><img src="assets/dashboard.png" alt="Dashboard" width="420"/></td>
-    <td><img src="assets/projects.png" alt="Projects Registry" width="420"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Dashboard — ASPS Dial + project registry + CISA KEV status</sub></td>
-    <td align="center"><sub>Projects — engagement list with type and status badges</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/import-scan.png" alt="Import Scan" width="420"/></td>
-    <td><img src="assets/reports.png" alt="Report Engine" width="420"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Import Scan — drag-and-drop ingestion with auto-detect parser</sub></td>
-    <td align="center"><sub>Report Engine v2.1 — five report types, five export formats</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/kev-catalog.png" alt="CISA KEV Catalog" width="420"/></td>
-    <td><img src="assets/remediation.png" alt="Remediation Tracker" width="420"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>CISA KEV Catalog — 1,629 tracked KEVs with offline sync</sub></td>
-    <td align="center"><sub>Remediation Tracker — per-project progress with status breakdown</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/create-project.png" alt="Create Project" width="420"/></td>
-    <td><img src="assets/settings-system.png" alt="System Configuration" width="420"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Create Project — engagement setup with type, scope, client and dates</sub></td>
-    <td align="center"><sub>System Configuration — AES-256-GCM vault · PBKDF2 600k iterations · KEV sync status</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/settings-ai.png" alt="AI & Integrations" width="420"/></td>
-    <td><img src="assets/settings-security.png" alt="Security Settings" width="420"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>AI & Integrations — Ollama local inference · Nmap · Nessus · Lethe-K connectors</sub></td>
-    <td align="center"><sub>Security — master password management with full key re-derivation</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## Architecture
