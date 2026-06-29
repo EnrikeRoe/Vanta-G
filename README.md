@@ -58,6 +58,8 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
     </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+
   <!-- FILA 2: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/import-scan.png" alt="Import Scan" width="100%"></td>
@@ -74,6 +76,8 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
       <sub>Five report types • Five export formats</sub>
     </td>
   </tr>
+
+  <tr><td colspan="2"><hr></td></tr>
 
   <!-- FILA 3: IMÁGENES -->
   <tr>
@@ -92,6 +96,8 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
     </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+
   <!-- FILA 4: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/create-project.png" alt="Create Project" width="100%"></td>
@@ -108,6 +114,8 @@ The core problem it solves is fragmentation. After a pentest, findings live scat
       <sub>AES-256-GCM vault • PBKDF2 600k iterations • KEV sync status</sub>
     </td>
   </tr>
+
+  <tr><td colspan="2"><hr></td></tr>
 
   <!-- FILA 5: IMÁGENES -->
   <tr>
