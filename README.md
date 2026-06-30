@@ -305,12 +305,6 @@ Vanta-G is part of a personal cybersecurity toolkit. It integrates with:
 
 ---
 
-## License
-
-Non-commercial use only. See [LICENSE](LICENSE) for terms.
-
----
-
 <div align="center">
   <sub>Built by <a href="https://github.com/EnrikeRoe">EnrikeRoe</a> · Part of the Kronos-Z ecosystem</sub>
 </div>
